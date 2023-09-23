@@ -3,8 +3,8 @@
 <img src="https://i.imgur.com/e0HVirZ.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Solarwinds IT Service Desk Quick overview and ticketing management basics</h1>
+This tutorial outlines the implementation of a well known Cloud based Ticketing system known as Solarwinds.<br />
 
 
 <h2>Video Demonstration</h2>
