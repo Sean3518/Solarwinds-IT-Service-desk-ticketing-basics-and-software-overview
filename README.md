@@ -9,7 +9,7 @@ This tutorial outlines the implementation of a well known Cloud based Ticketing 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: Solarwinds IT Serivce Desk Ticketing Video](https://www.youtube.com/watch?v=Hut2kBd_sOI)
 
 <h2>Environments and Technologies Used</h2>
 
